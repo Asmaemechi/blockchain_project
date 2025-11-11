@@ -32,6 +32,8 @@ remind_me_app/
 5. Copy it and paste it into: testing/src/
 6. npm start
 
+## 🎥 Demo Video
+Watch it here: ( https://drive.google.com/drive/folders/1RCYxjksRn0E_T4m3bzKE7xkGsipwrSHi?usp=sharing )
 
 
 
